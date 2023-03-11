@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678488818 source:c:\users\user\documents\code blocks\3semestre\estrutura de dados\função_retorna_nada\main.cpp
+	<iostream>
+	<locale.h>
+
