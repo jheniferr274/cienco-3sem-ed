@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679616958 source:f:\lista faculdade\ex5\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
