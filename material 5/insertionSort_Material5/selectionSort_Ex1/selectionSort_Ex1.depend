@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683933000 source:c:\users\user\documents\code blocks\3semestre\estrutura de dados\2 bimestre - programas\selectionsort_ex1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
