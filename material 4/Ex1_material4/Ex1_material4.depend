@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682727392 source:c:\users\user\documents\code blocks\3semestre\estrutura de dados\2 bimestre - programas\ex1_material4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
