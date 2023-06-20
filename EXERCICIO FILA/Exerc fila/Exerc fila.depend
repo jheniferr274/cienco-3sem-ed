@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685148638 source:g:\3 semestre\estrutura de dados prof rodrigo\exerc fila\main.cpp
+	<iostream>
+	<queue>
+
