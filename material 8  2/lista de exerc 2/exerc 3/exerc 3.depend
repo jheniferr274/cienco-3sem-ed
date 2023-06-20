@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679494776 source:e:\3 semestre\estrutura de dados prof rodrigo\lista de exerc 2\exerc 3\main.cpp
+	<iostream>
+
+1679523948 source:g:\3 semestre\estrutura de dados prof rodrigo\lista de exerc 2\exerc 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
